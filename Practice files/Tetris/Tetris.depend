@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1522827050 source:/home/vahid/Documents/Projects/CPP/Tetris/main.cpp
+	<SFML/Graphics.hpp>
+	<time.h>
+
