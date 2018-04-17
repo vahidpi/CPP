@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1523348986 source:/home/vahid/Documents/Projects/CPP/Asteroids_Housemarque_1/main.cpp
+	<SFML/Graphics.hpp>
+	<list>
+	<cmath>
+

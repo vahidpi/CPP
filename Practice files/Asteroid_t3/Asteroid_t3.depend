@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1523098111 source:/home/vahid/Documents/Projects/CPP/Asteroid_t3/main.cpp
+	<SFML/Graphics.hpp>
+	<time.h>
+	<list>
+
